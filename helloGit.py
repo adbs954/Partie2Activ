@@ -1,3 +1,4 @@
 # helloGit.py
 
-print("Bonjour Git.")
+msg = "Bonjour Git."
+print(msg)
