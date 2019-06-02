@@ -2,4 +2,4 @@
 
 fichier = open("msg.txt", "r") 
 msg = fichier.read()
-print(msg)
+print(2 * msg)
